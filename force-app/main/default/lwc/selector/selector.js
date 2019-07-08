@@ -7,3 +7,4 @@ export default class Selector extends LightningElement {
         this.selectedProductId = evt.detail;
     }
 }
+//adding comments
